@@ -1,0 +1,10 @@
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# macOS
+.DS_Store
+
+# Editor files
+.vscode/
